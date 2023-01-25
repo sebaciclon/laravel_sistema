@@ -1,0 +1,40 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "pages-home"
+    },
+    {
+      "url": "/Registrar",
+      "icon": "menu-icon tf-icons bx bx-file",
+      "name": "Registrar expediente",
+      "slug": "pages-registrar"
+    },
+    {
+      "url": "/editar",
+      "icon": "menu-icon tf-icons bx bxs-edit",
+      "name": "Buscar / Editar expediente",
+      "slug": "pages-editar"
+    },
+    {
+      "url": "/reportes",
+      "icon": "menu-icon tf-icons bx bxs-file-doc",
+      "name": "Reportes",
+      "slug": "pages-reportes"
+    },
+    {
+      "url": "/contribuyentes",
+      "icon": "menu-icon tf-icons bx bxs-file-doc",
+      "name": "Contribuyentes",
+      "slug": "pages-contribuyentes"
+    },
+    {
+      "url": "/usuarios",
+      "icon": "menu-icon tf-icons bx bx-user-circle",
+      "name": "Administrar usuarios",
+      "slug": "pages-usuarios"
+    }
+  ]
+}
